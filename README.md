@@ -1,5 +1,7 @@
 # Course and Project Overview: Power BI Desktop Course
 
+![image](https://github.com/ellakennedy/AdventureWorks/assets/97488388/d43b18af-5091-432a-bf10-ec2ba04b89fe)
+
 ## Course Completion
 Successfully completed the Power BI Desktop Course, designed for aspiring data professionals and analysts.
 
