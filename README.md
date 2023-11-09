@@ -1,8 +1,6 @@
 # AdventureWorks: PowerBI Dashboard
 
-![image](https://github.com/ellakennedy/AdventureWorks/assets/97488388/8729c932-1459-4463-94a7-534bbe47ebce)
-
-# Role of Business Intelligence Analyst for AdventureWorks Cycles
+#### Role of Business Intelligence Analyst for AdventureWorks Cycles
 
 ## Description
 Undertook the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company, as part of the course project.
