@@ -1,11 +1,8 @@
 # AdventureWorks: PowerBI Dashboard
 
-#### Role of Business Intelligence Analyst for AdventureWorks Cycles
+#### Role of Business Intelligence Analyst for AdventureWorks Cycles. Undertook the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company, as part of the course project.
 
-## Description
-Undertook the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company, as part of the course project.
-
-## Responsibilities
+#### Responsibilities
 - Transformed raw data into professional-quality reports and interactive dashboards.
 - Tracked KPIs, compared regional performance, analyzed product-level trends, and identified high-value customers.
 
